@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Enemygot
+- 👋 Hi, I’m @Enemygoat
 - 👀 I’m interested in KaliLinux
-- 🌱 I’m currently learning Hacking
+- 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on iT
-- 📫 How to reach me Money
+- 📫
 
 
 <!---
